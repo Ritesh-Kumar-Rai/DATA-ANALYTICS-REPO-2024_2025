@@ -1,0 +1,21 @@
+**Shortcuts in Excel
+
+1. Ctrl + Arrow Up (↑): Moves to the top of the current data region or to the first cell in the column.
+
+2. Ctrl + Arrow Down (↓): Moves to the bottom of the current data region or to the last cell in the column.
+
+3. Ctrl + Arrow Left (←): Moves to the beginning of the current data region or to the first cell in the row.
+
+4. Ctrl + Arrow Right (→): Moves to the end of the current data region or to the last cell in the row.
+
+5. Ctrl + Page Up: Switches to the previous worksheet in the workbook.
+
+6. Ctrl + Page Down: Switches to the next worksheet in the workbook.
+
+7. F12: Opens the "Save As" dialog box, allowing you to save your current workbook with a new name or in a different location.
+
+8. Ctrl + W: Closes the current workbook window.
+
+9. Ctrl + N: Opens a new, blank workbook.
+
+10. Ctrl + O: Opens the "Open" dialog box, allowing you to select and open an existing workbook.
