@@ -19,3 +19,37 @@
 9. Ctrl + N: Opens a new, blank workbook.
 
 10. Ctrl + O: Opens the "Open" dialog box, allowing you to select and open an existing workbook.
+
+11. Insert a new row:
+
+	-Select the row below where you want the new row to appear.
+	-Press Shift + Space to select the entire row.
+	-Press Ctrl + Shift + "+" to insert a new row above.
+
+12. Insert a new column:
+
+	-Select the column to the right of where you want the new column to appear.
+	-Press Ctrl + Space to select the entire column.
+	-Press Ctrl + Shift + "+" to insert a new column to the left.
+
+Similarly, you can delete rows and columns with these shortcuts:
+
+13. Delete a row:
+
+	-Select the row you want to delete.
+	-Press Shift + Space to select the entire row.
+	-Press Ctrl + "-" to delete the row.
+
+14. Delete a column:
+
+	-Select the column you want to delete.
+	-Press Ctrl + Space to select the entire column.
+	-Press Ctrl + "-" to delete the column.
+
+15. Ctrl + Shift + Right Arrow: Selects all cells from the current cell to the last non-blank cell in the same row.
+
+16. Ctrl + Shift + Left Arrow: Selects all cells from the current cell to the first non-blank cell in the same row.
+
+17. Ctrl + Shift + Down Arrow: Selects all cells from the current cell to the last non-blank cell in the same column.
+
+18. Ctrl + Shift + Up Arrow: Selects all cells from the current cell to the first non-blank cell in the same column.
